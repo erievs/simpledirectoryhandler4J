@@ -4,8 +4,6 @@ This is a very simple handler class file. Which deals with directories on Java. 
 
 This a simple Java utitly, simpledirectoryhandler4J, offers a somewhat streamlined solution for handling directory within in Java projects. Its functionality, is pretty simple.
 
-Specifically:
-
     Upon launch, it automatically creates a folder within the project's primary "os" directory. The utility performs a check on the folder path to see if it is there. 
 
 
